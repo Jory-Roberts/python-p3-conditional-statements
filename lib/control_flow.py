@@ -44,4 +44,4 @@ def calculator(operation, num1, num2):
         return num1 / num2
     else :
         print("Invalid operation!")
-    pass
+
